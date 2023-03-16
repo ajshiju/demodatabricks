@@ -1,5 +1,20 @@
 Rank ,Dense_rank ,ROW_NUMBER
 
 https://codingsight.com/similarities-and-differences-among-rank-dense_rank-and-row_number-functions/
+https://codingsight.com/methods-to-rank-rows-in-sql-server-rownumber-rank-denserank-and-ntile/
 
+
+ORDER BY SAMPLES
+
+https://codingsight.com/sql-order-by-the-5-dos-and-donts-to-sort-data-like-a-pro/
+
+
+OPTIMIZATION
+
+https://codingsight.com/sql-query-optimization-tips/
+
+
+SCD2 TERADATA
+
+https://etl-sql.com/scd-2-in-teradata/#google_vignette
 
